@@ -1,2 +1,2 @@
 # HelloTS-Chrome
-As simple hello world demo of using Typescript with Chrome and vsedge.
+As simple hello world demo of using Typescript with Chrome and vscode
